@@ -58,7 +58,7 @@ Instead of using random raycasts (which clump together) or heavy box-casts, the 
 
 | Sphere Generation | Scanning Logic |
 | :---: | :---: |
-| ![Fibonacci](content/diagram4.jpg) | ![Scanning](content/diagram3.jpg) |
+| ![Fibonacci](content/diagram4.jpg) | ![Scanning](content/diagram3.png) |
 
 **Why this matters:**
 * **Uniformity:** We get a scientifically accurate "snapshot" of the environment density with as few as 30 rays.
